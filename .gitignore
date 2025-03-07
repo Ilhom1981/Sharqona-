@@ -31,3 +31,30 @@ google-services.json
 
 # Android Profiling
 *.hprof
+Node.js модули (агар ишлатилса)
+
+node_modules/
+
+Кэш ва вақтинчалик файллар
+
+*.log *.cache *.tmp
+
+Linux ва MacOS файллари
+
+.DS_Store .vscode/ .idea/
+
+Git томонидан ишлатиладиган вақтинчалик файллар
+
+*.swp *.swo *.swn
+
+Кэш ва вақтинчалик файллар
+
+*.log *.cache *.tmp *.bak *.sql
+
+Конфигурация ва махфий файллар
+
+.env config.php database.php
+
+Логлар ва вақтинчалик файллар
+
+error_log git status
